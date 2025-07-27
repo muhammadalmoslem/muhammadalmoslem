@@ -23,7 +23,8 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 - Earn trust and support from my family through my work and dedication  
 
 ## Connect with me
-
+- emile:almoslemmuhammad@gmail.com
+- linkedin:muhammad-almoslem
 <p align="center">
   <a href="mailto:almoslemmuhammad@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
   <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-almoslem-12a208377/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>

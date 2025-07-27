@@ -10,7 +10,7 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 
 ## Skills & Tools
 
-- Programming Languages: C++, Python, HTML, CSS  
+- Programming Languages: C++, there will be more
 - Tools & Platforms: Git, GitHub, VS Code  
 - Languages: Arabic (native), English (intermediate)  
 
@@ -23,10 +23,10 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 - Earn trust and support from my family through my work and dedication  
 
 ## Connect with me
-- emile:almoslemmuhammad@gmail.com
+- emile:almuslemmuhammad@gmail.com
 - linkedin:muhammad-almoslem
 <p align="center">
-  <a href="mailto:almoslemmuhammad@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
+  <a href="mailto:almuslemmuhammad@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
   <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-almoslem-12a208377/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://github.com/muhammadmuslem"><img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github" /></a>
 </p>

@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working as a developer"/>
 
+I love ❤️my family❤️and❤️learning new things❤️.
 I am a 15-year-old self-taught developer from Syria.  
 I am passionate about coding, problem-solving, and continuous learning.  
 Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.  

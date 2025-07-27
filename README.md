@@ -35,4 +35,4 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working as a developer"/>
-</p>oding. Keep growing.</strong></p>
+</p>oding. Keep growing.</strong>keep learning.keep.going.keep coding</p>

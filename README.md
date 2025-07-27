@@ -30,7 +30,7 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 - linkedin:muhammad-almoslem
 <p align="center">
   <a href="mailto:almoslemmuhammad@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-almoslem-12a208377(https://www.linkedin.com/in/muhammad-almoslem-12a208377/)"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-almoslem-12a208377"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
   <a href="https://github.com/muhammadmuslem"><img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github" /></a>
 </p>
 

@@ -1,40 +1,40 @@
-<div align="center" width="50">
-<div align="center" width="50%">
+<p align="center">
   <img src="https://github.com/muhammadmuslem/muhammadmuslem/raw/main/assets/github.gif" alt="Hi, I'm Muhammad 👋 A self-taught developer from Syria 🚀 I love my family and learning new things ❤️" width="60%" />
-  <br />
-  <img src="https://github.com/muhammadmuslem/muhammadmuslem/raw/main/assets/dev-working.gif" alt="Workspace" width="40%" />
-  <br />
-  <details>
-    <summary><strong>Busy coding & vibing to:</strong></summary>
-    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-  </details>
-  <br />
-  ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuslem&style=flat&color=orange&label=PROFILE+VIEWS)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammadmuslem&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-  ![Telegram](https://img.shields.io/badge/Muhammad-Muslem-grey?style=flat&logo=telegram)
-</div>
+</p>
 
-<hr />
+## Hi, I'm Muhammad 👋
 
-![Tools I Use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+I am a 15-year-old self-taught developer from Syria.  
+I am passionate about coding, problem-solving, and continuous learning.  
+Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.  
 
-**Code Cycle**<br>
+## Skills & Tools
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+- Programming Languages: C++, Python, HTML, CSS  
+- Tools & Platforms: Git, GitHub, VS Code  
+- Languages: Arabic (native), English (intermediate)  
 
+## Goals
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+- Build and publish open-source projects  
+- Improve my programming skills every day  
+- Learn new technologies and tools  
+- Gain experience through internships and freelance work  
+- Earn trust and support from my family through my work and dedication  
 
-</div>
+## Connect with me
 
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+  <a href="https://github.com/muhammadmuslem"><img src="https://img.icons8.com/material-sharp/48/000000/github.png" alt="github" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKxOhgkHK8IhZ68/giphy.gif" width="300" />
+</p>
+
+<p align="center"><strong>Keep learning. Keep coding. Keep growing.</strong></p>

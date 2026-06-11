@@ -30,7 +30,7 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 - linkedin:muhammad-almoslem
 <p align="center">
   <a href="mailto:almoslemmuhammad@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" /></a>
-  <a href="https://chess.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.chess.com/member/smiling_demon1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=100&id=C5LTcmsc3cr0&format=png&color=000000" alt="Chess.com Profile" width="48" height="48" />
 </a>
 

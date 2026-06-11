@@ -15,7 +15,7 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
 
 - Programming Languages: C++, Python there will be more
 - Tools & Platforms: Git, GitHub, VS Code  
-- Languages: Arabic (native), English (intermediate)  
+- Languages: Arabic (native), English (intermediate),  Japanese(beginner),  Franch(beginner)
 
 ## Goals
 

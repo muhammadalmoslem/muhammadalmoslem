@@ -39,7 +39,7 @@ Currently, I am focusing on improving my skills in C++, Python, HTML, and CSS.
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/muhammad-almoslem-03ab14415/" target="_blank" rel="noopener noreferrer">
-    <img src="https://icons8.com" alt="LinkedIn" width="48" height="48" />
+    <img src="[https://icons8.com](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)" alt="LinkedIn" width="48" height="48" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/muhammadmuslem" target="_blank" rel="noopener noreferrer">
